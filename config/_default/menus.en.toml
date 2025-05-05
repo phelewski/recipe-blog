@@ -1,0 +1,27 @@
+[[main]]
+name = "Recipes"
+pageRef = "recipes"
+weight = 100
+
+[[main]]
+identifier = "gitHub"
+pre = "github"
+url = "https://github.com/phelewski/recipe-blog"
+weight = 1000
+
+
+[[footer]]
+name = "Tags"
+pageRef = "tags"
+
+[[footer]]
+name = "Cuisine"
+pageRef = "cuisine"
+
+[[footer]]
+name = "Categories"
+pageRef = "categories"
+
+[[footer]]
+name = "Method"
+pageRef = "method"

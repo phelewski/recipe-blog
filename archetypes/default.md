@@ -13,7 +13,7 @@ tags = ['FIXME:', 'FIXME:', 'FIXME:']
 - Prep Time: FIXME:
 - Cook Time: FIXME:
 - Total Time: FIXME:
-- servings: FIXME:
+- Servings: FIXME:
 
 ## Ingredients
 

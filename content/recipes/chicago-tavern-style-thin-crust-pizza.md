@@ -17,10 +17,10 @@ tags = ['Pizza', 'Thin Crust Pizza', 'Chicago Style Pizza', 'Tavern Style Pizza'
 
 ## Ingredients
 
-- 1 pizza dough ([see recipe here](https://phelewski.github.io/recipe-blog/chicago-tavern-style-thin-crust-pizza-dough/))
+- 1 pizza dough ([see recipe here]({{< ref "recipes/thin-crust-pizza-dough" >}}))
 - 8oz full-fat aged mozzarella cheese, shredded
 - 8oz mild italian sausage
-- Pizza sauce ([see recipe here](https://phelewski.github.io/recipe-blog/pizza-sauce/))
+- Pizza sauce ([see recipe here]({{< ref "recipes/pizza-sauce" >}}))
 - Dried oregano
 - Dried basil
 - Kosher Salt or MSG

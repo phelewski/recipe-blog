@@ -1,7 +1,7 @@
 +++
 date = '2025-05-05T17:11:30-04:00'
 draft = false
-title = 'Chicago Tavern Style Thin Crust Pizza Dough'
+title = 'Thin Crust Pizza Dough'
 cuisine = 'American'
 categories = ['Dinner']
 method = 'Baking'

@@ -50,6 +50,6 @@ tags = ['Pizza', 'Pan Pizza', 'Deep Dish Pizza', 'Pickles']
 You can use any pizza dough recipe or type for this, it doesn't have to be the detroit style pan pizza
 
 {{< gallery >}}
-<img src="img/pickle-pizza-1.HEIC" class="grid-w50" />
-<img src="img/pickle-pizza-2.HEIC" class="grid-w50" />
+<img src="img/pickle-pizza-1.png" class="grid-w50" />
+<img src="img/pickle-pizza-2.png" class="grid-w50" />
 {{< /gallery >}}

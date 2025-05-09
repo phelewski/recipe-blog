@@ -31,7 +31,10 @@ tags = ['Pizza Dough', 'Pan Pizza']
 3. Let rest for 1-2 hours. Stretch and fold the dough into itself 4+ times every 15 minutes to help with building gluten development
 4. Transfer to fridge for at least 1 day (can let rest for 1 hour for same day dough)
 5. If pulling from the fridge, let the dough rest and come to temperature on the counter for 2-3 hours
-6. Bake on convection @525f (not on pizza steel)
+6. Add about a tablespoon of olive oil to the detroit style pan and coat the entire bottom and 1" of the sides
+7. Place the room temperature dough in the middle of the pan and with wet or oiled fingers, massage the dough out
+8. Come back every 10-15 minutes to stretch the dough out even more to the sides. With gentle, light pressure, press the dough with your fingers to spread it out and shape it to cover the entire bottom of the pan, corner to corner.
+9. Bake on convection @525°f (not on pizza steel)
 
 ## Notes/Tips
 

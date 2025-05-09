@@ -18,8 +18,8 @@ tags = ['Pizza', 'Pan Pizza', 'Deep Dish Pizza', 'Pickles']
 ## Ingredients
 
 - 1 detroit style pizza dough ([see recipe here]({{< ref "recipes/detroit-style-pizza-dough" >}}))
-- 4oz Mozzarella pearls
-- 8oz full-fat aged mozzarella cheese, shredded
+- 4 oz. Mozzarella pearls
+- 8 oz. full-fat aged mozzarella cheese, shredded
 - 2 Tbsp Parmesan Reggiano, grated
 - 2 Tbsp Pecorino Romano, grated
 - Sliced or sandwich style pickles (Claussen Kosher Dill)

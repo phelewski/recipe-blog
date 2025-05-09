@@ -17,14 +17,14 @@ tags = ['Pizza', 'Pizza Sauce']
 
 ## Ingredients
 
-- 1 28oz can crushed tomatoes
-- 100g tomato paste
-- 12g salt
-- 20g granulated sugar
-- 2g dried basil
-- 2g dried oregano
-- 2g onion powder
-- 2g garlic powder
+- 1 28 oz. can crushed tomatoes
+- 100 g tomato paste
+- 12 g salt
+- 20 g granulated sugar
+- 2 g dried basil
+- 2 g dried oregano
+- 2 g onion powder
+- 2 g garlic powder
 
 ## Instructions
 

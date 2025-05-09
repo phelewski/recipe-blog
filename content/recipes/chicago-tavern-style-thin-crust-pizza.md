@@ -18,8 +18,8 @@ tags = ['Pizza', 'Thin Crust Pizza', 'Chicago Style Pizza', 'Tavern Style Pizza'
 ## Ingredients
 
 - 1 pizza dough ([see recipe here]({{< ref "recipes/thin-crust-pizza-dough" >}}))
-- 8oz full-fat aged mozzarella cheese, shredded
-- 8oz mild italian sausage
+- 8 oz. full-fat aged mozzarella cheese, shredded
+- 8 oz. mild italian sausage
 - Pizza sauce ([see recipe here]({{< ref "recipes/pizza-sauce" >}}))
 - Dried oregano
 - Dried basil

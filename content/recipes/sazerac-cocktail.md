@@ -2,7 +2,6 @@
 date = '2025-05-09T15:05:20-04:00'
 draft = false
 title = 'Sazerac Cocktail'
-cuisine = 'American'
 categories = ['Cocktail']
 method = 'Drink'
 tags = ['Rye Whiskey', 'Cognac', 'Absinthe']

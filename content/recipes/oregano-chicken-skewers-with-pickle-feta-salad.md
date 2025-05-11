@@ -4,7 +4,7 @@ draft = false
 title = 'Oregano Chicken Skewers with Pickle Feta Salad'
 cuisine = 'Greek'
 categories = ['Dinner']
-method = 'Grill'
+method = ['Pan-Frying', 'Grilling']
 tags = ['Pickle', 'Kebab', 'Summer']
 +++
 
@@ -27,9 +27,9 @@ Produce
 
 Pantry
 
-- 9 tablespoons olive oil, plus more
-- 6 tablespoons red wine vinegar
-- 2 tablespoons dried oregano
+- 9 Tbsp olive oil, plus more
+- 6 Tbsp red wine vinegar
+- 2 Tbsp dried oregano
 - Kosher salt
 - Freshly ground black pepper
 - 6 baby dill pickles

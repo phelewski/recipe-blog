@@ -2,7 +2,6 @@
 date = '2025-05-09T14:52:59-04:00'
 draft = false
 title = 'Eggnog Cocktail'
-cuisine = 'American'
 categories = ['Cocktail']
 method = 'Drink'
 tags = ['Bourbon', 'Brandy', 'Cognac', 'Eggnog', 'Christmas']

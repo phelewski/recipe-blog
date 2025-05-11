@@ -1,8 +1,12 @@
 # My Recipe Collection
 
-[![GitHub Pages Status](https://githubstatus.com/shields/up)](https://githubstatus.com/)
+[![Build and Deploy](https://github.com/phelewski/recipe-blog/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/phelewski/recipe-blog/actions/workflows/gh-pages.yml)
+[![Blowfish](https://img.shields.io/badge/Hugo--Themes-@Blowfish-blue)](https://themes.gohugo.io/themes/blowfish/)
+[![License](https://img.shields.io/github/license/phelewski/recipe-blog)](https://github.com/phelewski/recipe-blog/blob/main/LICENSE)
 
 A personal collection of favorite recipes built with [Hugo](https://gohugo.io/), styled using the [Blowfish theme](https://codethemes.com/blowfish/), and deployed automatically to GitHub Pages via GitHub Actions.
+
+[Recipe Website](https://phelewski.github.io/recipe-blog/)
 
 ## Features
 

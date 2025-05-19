@@ -5,7 +5,7 @@ title = 'Pickle Pizza'
 cuisine = 'American'
 categories = ['Dinner']
 method = 'Baking'
-tags = ['Pizza', 'Pan Pizza', 'Deep Dish Pizza', 'Pickles']
+tags = ['Pizza', 'Pan Pizza', 'Deep Dish Pizza', 'Pickles', 'Popcorn Chicken', 'Ranch']
 +++
 
 ## Timing
@@ -27,7 +27,7 @@ tags = ['Pizza', 'Pan Pizza', 'Deep Dish Pizza', 'Pickles']
 - Ranch dressing
 - Ranch dressing powder
 - Plain kettle chips
-- Popcorn chicken (optional)
+- [Popcorn chicken](https://www.publix.com/pd/publix-deli-original-fried-popcorn-chicken/RIO-HC1-101298) (optional)
 
 ## Instructions
 

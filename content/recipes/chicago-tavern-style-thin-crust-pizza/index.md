@@ -5,7 +5,7 @@ title = 'Chicago Tavern Style Thin Crust Pizza'
 cuisine = 'American'
 categories = ['Dinner']
 method = 'Baking'
-tags = ['Pizza', 'Thin Crust Pizza', 'Chicago Style Pizza', 'Tavern Style Pizza']
+tags = ['Pizza', 'Thin Crust Pizza', 'Chicago Style Pizza', 'Tavern Style Pizza', 'Sausage']
 +++
 
 ## Timing
@@ -38,3 +38,7 @@ tags = ['Pizza', 'Thin Crust Pizza', 'Chicago Style Pizza', 'Tavern Style Pizza'
 ## Source
 
 {{< youtubeLite id="jvzX7-JnZb4" label="Tavern Style Chicago Thin Crust Pizza" >}}
+
+{{< gallery >}}
+<img src="img/chicago-tavern-style-thin-crust-pizza.png" class="grid-w100" />
+{{< /gallery >}}

@@ -178,7 +178,7 @@ See `scripts/README.md` for full documentation.
 - **Cross-references:** use Hugo shortcode `{{< ref "recipes/slug" >}}`
 - **Titles:** Title Case (not sentence case)
 - **Slugs:** kebab-case, descriptive but concise
-- **Draft mode:** create as `draft = true` initially for review
+- **Draft mode:** create as `draft = false` initially for review
 
 ## Useful Hugo Shortcodes in Recipes
 

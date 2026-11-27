@@ -21,9 +21,9 @@ tags = ['Pork Butt', 'Pork Shoulder', 'Pellet Grill', 'Grill', 'Barbecue']
 - Yellow mustard or olive oil (for binder)
 - Seasoning of choice
   - 2 parts salt, 2 parts pepper, 1 part garlic or pre-made mix
-- 1/3 cup Apple cider vinegar
-- 1/3 cup Apple juice
-- 1/3 cup BBQ sauce
+- ⅓ cup Apple cider vinegar
+- ⅓ cup Apple juice
+- ⅓ cup BBQ sauce
 
 ## Instructions
 
